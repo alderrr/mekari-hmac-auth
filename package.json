@@ -1,0 +1,30 @@
+{
+  "name": "mekari-hmac-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alderrr/mekari-hmac-auth.git"
+  },
+  "keywords": [],
+  "author": "alderdeveloper@gmail.com",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/alderrr/mekari-hmac-auth/issues"
+  },
+  "homepage": "https://github.com/alderrr/mekari-hmac-auth#readme",
+  "pkg": {
+    "assets": [
+      "node_modules/axios/**/*"
+    ]
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
