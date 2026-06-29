@@ -1,4 +1,6 @@
+backup
 node_modules
+downloads
 .env
 *.exe
 *.zip
